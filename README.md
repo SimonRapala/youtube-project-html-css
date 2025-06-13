@@ -1,10 +1,25 @@
-# My Website
-A simple HTML/CSS project.
+# YouTube Project: HTML + CSS
 
-Info
--icons folder just contains the needed icons from youtube for the project
--intro to html contains what i did to practice with each topic covered in video
--profile pics holds the images used for the profile pictures
--styles is the CSS portion of the code
--the thumbnails folder holds all the images used for thumbnails
--finally yuotube.html is the HTML code for the project
+A follow-along project based on a YouTube tutorial to learn basic HTML and CSS layout and styling. This project includes a mock YouTube homepage built using semantic HTML and modern CSS practices.
+
+## Demo
+
+https://simonrapala.github.io/youtube-project-html-css/youtube.html
+
+## Project Structure
+
+├── youtube.html
+├── styles/
+│ └── style.css
+├── thumbnails/
+├── profile-pics/
+├── icons/
+└── README.md
+
+## What I Learned
+- Basics of HTML: syntax, semantic tags, layout, and interaction with CSS  
+- Basics of CSS: classes, selectors, grid, flexbox, and responsive design  
+- Clean file structure and organized web development workflow  
+- Web design layout and building dynamic UIs
+- Use of DevOps and inspect tools to better understand design 
+
